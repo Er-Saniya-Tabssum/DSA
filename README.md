@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -12,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -19,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 | Problem Name | Difficulty |
