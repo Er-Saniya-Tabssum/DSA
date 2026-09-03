@@ -13,7 +13,7 @@ public:
                 length=min(temp,length);
                 sum -= nums[low];
                 low++;
-                continue;
+               
             }
                 high++;
         }
