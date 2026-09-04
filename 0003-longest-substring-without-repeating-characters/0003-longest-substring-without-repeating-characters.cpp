@@ -5,8 +5,6 @@ public:
         int high = 0;
         unordered_map<int,int> Arr;
         int ans = 0;
-        string temp="";
-        temp += s[low];
         for (high = 0; high < s.size(); ++high) {
             Arr[s[high]]++;
             while (Arr.size() <(high-low+1)) {
