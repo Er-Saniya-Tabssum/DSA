@@ -50,6 +50,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -59,9 +60,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
