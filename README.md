@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
