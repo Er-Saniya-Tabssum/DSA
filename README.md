@@ -24,6 +24,7 @@
 | [0141-linked-list-cycle](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -75,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
@@ -88,6 +90,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -97,4 +100,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
