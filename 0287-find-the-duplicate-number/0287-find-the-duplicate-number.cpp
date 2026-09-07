@@ -16,6 +16,6 @@ public:
                 return slow;
             }
         }
-        return nums[slow];
+        return -1;
     }
 };
