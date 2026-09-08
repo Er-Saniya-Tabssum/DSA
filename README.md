@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -106,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
