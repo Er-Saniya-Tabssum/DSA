@@ -4,7 +4,6 @@ public:
         if(arr.size()==1){
             return arr[0];
         }
-        int best_ending=arr[0];
         int nodelete=arr[0];
          int onedelete=INT_MIN;
         int result=INT_MIN;
