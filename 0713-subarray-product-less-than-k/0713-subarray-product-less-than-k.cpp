@@ -4,19 +4,17 @@ public:
         int low = 0;
         int high = 0;
         int total = 0;
-        int sum = 1;
-        while (low < nums.size()) {
-            high = low;
-            while (high < nums.size()) {
-                sum = sum * nums[high];
-                high++;
-                if(sum >= k){
-                    break;
-                }
-                total++;
+        if(k<=1){
+            return 0;
+        }
+        long long product=1;
+        for(high=0;high<nums.size();high++){
+            product = product * nums[high];
+            while(product>=k){
+                product /= nums[low];
+                low++;
             }
-            low++;
-            sum = 1;
+             total += high -low+1;
         }
         return total;
     }
