@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -113,6 +114,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
