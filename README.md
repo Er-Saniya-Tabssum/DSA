@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -95,6 +96,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
