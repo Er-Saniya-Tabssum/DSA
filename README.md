@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -68,12 +70,14 @@
 | [0076-minimum-window-substring](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
