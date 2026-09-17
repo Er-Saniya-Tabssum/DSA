@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
