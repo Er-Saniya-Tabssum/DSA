@@ -108,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
@@ -153,10 +154,15 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
