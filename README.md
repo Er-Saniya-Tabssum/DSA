@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -155,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
@@ -165,4 +167,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
