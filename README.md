@@ -60,6 +60,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Er-Saniya-Tabssum/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -184,4 +185,8 @@
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Er-Saniya-Tabssum/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
